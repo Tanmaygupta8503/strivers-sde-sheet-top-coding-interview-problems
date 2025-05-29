@@ -72,3 +72,23 @@ If you find this helpful, feel free to ⭐ star the repo and share!
 ---
 
 > *"The only way to learn a new programming language is by writing programs in it." – Dennis Ritchie*
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Stack
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Tanmaygupta8503/strivers-sde-sheet-top-coding-interview-problems/tree/master/0094-binary-tree-inorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Tanmaygupta8503/strivers-sde-sheet-top-coding-interview-problems/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Tanmaygupta8503/strivers-sde-sheet-top-coding-interview-problems/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Tanmaygupta8503/strivers-sde-sheet-top-coding-interview-problems/tree/master/0094-binary-tree-inorder-traversal) |
+<!---LeetCode Topics End-->
