@@ -87,16 +87,31 @@ If you find this helpful, feel free to ⭐ star the repo and share!
 | [0094-binary-tree-inorder-traversal](https://github.com/Tanmaygupta8503/strivers-sde-sheet-top-coding-interview-problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Tanmaygupta8503/strivers-sde-sheet-top-coding-interview-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Tanmaygupta8503/strivers-sde-sheet-top-coding-interview-problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Tanmaygupta8503/strivers-sde-sheet-top-coding-interview-problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Tanmaygupta8503/strivers-sde-sheet-top-coding-interview-problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Tanmaygupta8503/strivers-sde-sheet-top-coding-interview-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Tanmaygupta8503/strivers-sde-sheet-top-coding-interview-problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Tanmaygupta8503/strivers-sde-sheet-top-coding-interview-problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Tanmaygupta8503/strivers-sde-sheet-top-coding-interview-problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Tanmaygupta8503/strivers-sde-sheet-top-coding-interview-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Tanmaygupta8503/strivers-sde-sheet-top-coding-interview-problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Tanmaygupta8503/strivers-sde-sheet-top-coding-interview-problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+## Hash Table
+|  |
+| ------- |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Tanmaygupta8503/strivers-sde-sheet-top-coding-interview-problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Tanmaygupta8503/strivers-sde-sheet-top-coding-interview-problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+## Sorting
+|  |
+| ------- |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Tanmaygupta8503/strivers-sde-sheet-top-coding-interview-problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 <!---LeetCode Topics End-->
