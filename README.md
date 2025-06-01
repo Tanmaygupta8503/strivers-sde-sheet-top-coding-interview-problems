@@ -85,6 +85,7 @@ If you find this helpful, feel free to ⭐ star the repo and share!
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Tanmaygupta8503/strivers-sde-sheet-top-coding-interview-problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Tanmaygupta8503/strivers-sde-sheet-top-coding-interview-problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Tanmaygupta8503/strivers-sde-sheet-top-coding-interview-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Tanmaygupta8503/strivers-sde-sheet-top-coding-interview-problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Tanmaygupta8503/strivers-sde-sheet-top-coding-interview-problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -92,6 +93,7 @@ If you find this helpful, feel free to ⭐ star the repo and share!
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Tanmaygupta8503/strivers-sde-sheet-top-coding-interview-problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Tanmaygupta8503/strivers-sde-sheet-top-coding-interview-problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Tanmaygupta8503/strivers-sde-sheet-top-coding-interview-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Tanmaygupta8503/strivers-sde-sheet-top-coding-interview-problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Tanmaygupta8503/strivers-sde-sheet-top-coding-interview-problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -99,6 +101,7 @@ If you find this helpful, feel free to ⭐ star the repo and share!
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Tanmaygupta8503/strivers-sde-sheet-top-coding-interview-problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Tanmaygupta8503/strivers-sde-sheet-top-coding-interview-problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Tanmaygupta8503/strivers-sde-sheet-top-coding-interview-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Tanmaygupta8503/strivers-sde-sheet-top-coding-interview-problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Tanmaygupta8503/strivers-sde-sheet-top-coding-interview-problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -109,6 +112,7 @@ If you find this helpful, feel free to ⭐ star the repo and share!
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Tanmaygupta8503/strivers-sde-sheet-top-coding-interview-problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Tanmaygupta8503/strivers-sde-sheet-top-coding-interview-problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Sorting
 |  |
