@@ -97,6 +97,7 @@ If you find this helpful, feel free to ⭐ star the repo and share!
 | [0144-binary-tree-preorder-traversal](https://github.com/Tanmaygupta8503/strivers-sde-sheet-top-coding-interview-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Tanmaygupta8503/strivers-sde-sheet-top-coding-interview-problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Tanmaygupta8503/strivers-sde-sheet-top-coding-interview-problems/tree/master/0543-diameter-of-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/Tanmaygupta8503/strivers-sde-sheet-top-coding-interview-problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Tanmaygupta8503/strivers-sde-sheet-top-coding-interview-problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -128,6 +129,7 @@ If you find this helpful, feel free to ⭐ star the repo and share!
 | [0144-binary-tree-preorder-traversal](https://github.com/Tanmaygupta8503/strivers-sde-sheet-top-coding-interview-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Tanmaygupta8503/strivers-sde-sheet-top-coding-interview-problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Tanmaygupta8503/strivers-sde-sheet-top-coding-interview-problems/tree/master/0543-diameter-of-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/Tanmaygupta8503/strivers-sde-sheet-top-coding-interview-problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Tanmaygupta8503/strivers-sde-sheet-top-coding-interview-problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Hash Table
 |  |
@@ -155,4 +157,8 @@ If you find this helpful, feel free to ⭐ star the repo and share!
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Tanmaygupta8503/strivers-sde-sheet-top-coding-interview-problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Tanmaygupta8503/strivers-sde-sheet-top-coding-interview-problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/Tanmaygupta8503/strivers-sde-sheet-top-coding-interview-problems/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
