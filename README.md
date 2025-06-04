@@ -82,6 +82,7 @@ If you find this helpful, feel free to ⭐ star the repo and share!
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Tanmaygupta8503/strivers-sde-sheet-top-coding-interview-problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Tanmaygupta8503/strivers-sde-sheet-top-coding-interview-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Tanmaygupta8503/strivers-sde-sheet-top-coding-interview-problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Tanmaygupta8503/strivers-sde-sheet-top-coding-interview-problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Tree
 |  |
 | ------- |
@@ -100,6 +101,7 @@ If you find this helpful, feel free to ⭐ star the repo and share!
 | [0543-diameter-of-binary-tree](https://github.com/Tanmaygupta8503/strivers-sde-sheet-top-coding-interview-problems/tree/master/0543-diameter-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Tanmaygupta8503/strivers-sde-sheet-top-coding-interview-problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Tanmaygupta8503/strivers-sde-sheet-top-coding-interview-problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Tanmaygupta8503/strivers-sde-sheet-top-coding-interview-problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -133,6 +135,7 @@ If you find this helpful, feel free to ⭐ star the repo and share!
 | [0543-diameter-of-binary-tree](https://github.com/Tanmaygupta8503/strivers-sde-sheet-top-coding-interview-problems/tree/master/0543-diameter-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Tanmaygupta8503/strivers-sde-sheet-top-coding-interview-problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Tanmaygupta8503/strivers-sde-sheet-top-coding-interview-problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Tanmaygupta8503/strivers-sde-sheet-top-coding-interview-problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Hash Table
 |  |
 | ------- |
@@ -164,12 +167,18 @@ If you find this helpful, feel free to ⭐ star the repo and share!
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Tanmaygupta8503/strivers-sde-sheet-top-coding-interview-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Tanmaygupta8503/strivers-sde-sheet-top-coding-interview-problems/tree/master/0783-search-in-a-binary-search-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Tanmaygupta8503/strivers-sde-sheet-top-coding-interview-problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Array
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Tanmaygupta8503/strivers-sde-sheet-top-coding-interview-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Tanmaygupta8503/strivers-sde-sheet-top-coding-interview-problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Tanmaygupta8503/strivers-sde-sheet-top-coding-interview-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Tanmaygupta8503/strivers-sde-sheet-top-coding-interview-problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
